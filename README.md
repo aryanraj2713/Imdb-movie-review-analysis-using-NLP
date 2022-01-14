@@ -1,6 +1,6 @@
 # Imdb-movie-review-analysis-using-NLP
 
-Data Used : https://www.kaggle.com/hamzamanssor/movie-review-sentiment-analysis
+Data Used : kaggle kernels output hamzamanssor/movie-review-sentiment-analysis -p /path/to/dest
 
 # Accuracy
 - [ ] Accuracy for Naive Bayes : 0.62100/1
