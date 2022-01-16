@@ -1,5 +1,8 @@
 # Imdb-movie-review-analysis-using-NLP
 
+![Sentiment Analysis](https://user-images.githubusercontent.com/75358720/149663772-166a2492-b31c-48e4-ac62-384e15bda62e.png)
+
+
 Data API- ```kaggle datasets download -d columbine/imdb-dataset-sentiment-analysis-in-csv-format```
 
 # Accuracy
